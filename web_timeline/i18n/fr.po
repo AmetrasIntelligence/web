@@ -1,24 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * web_timeline
-#
-# Translators:
-# leemannd <denis.leemann@camptocamp.com>, 2017
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-03 03:50+0000\n"
-"PO-Revision-Date: 2020-07-22 12:19+0000\n"
-"Last-Translator: c2cdidier <didier.donze@camptocamp.com>\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_timeline/i18n/web_timeline.pot\n"
+"X-Crowdin-File-ID: 6824\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 22:08\n"
 
 #. module: web_timeline
 #. openerp-web
@@ -39,23 +35,21 @@ msgstr "Êtes vous sûr de vouloir supprimer cet enregistrement ?"
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Day"
-msgstr "Jour"
+msgstr ""
 
 #. module: web_timeline
 #. openerp-web
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Month"
-msgstr "Mois"
+msgstr ""
 
 #. module: web_timeline
 #. openerp-web
 #: code:addons/web_timeline/static/src/js/timeline_renderer.js:0
 #, python-format
 msgid "Template \"timeline-item\" not present in timeline view definition."
-msgstr ""
-"Le modèle \"timeline-item\" n'est pas présent dans la définition de la vue "
-"timeline."
+msgstr "Le modèle \"timeline-item\" n'est pas présent dans la définition de la vue timeline."
 
 #. module: web_timeline
 #. openerp-web
@@ -77,7 +71,7 @@ msgstr "La vue chronologique n'a pas défini l'attribut 'date_start'."
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Today"
-msgstr "Aujourd'hui"
+msgstr ""
 
 #. module: web_timeline
 #: model:ir.model,name:web_timeline.model_ir_ui_view
@@ -87,14 +81,14 @@ msgstr "Vue"
 #. module: web_timeline
 #: model:ir.model.fields,field_description:web_timeline.field_ir_ui_view__type
 msgid "View Type"
-msgstr "Type de vue"
+msgstr ""
 
 #. module: web_timeline
 #. openerp-web
 #: code:addons/web_timeline/static/src/js/timeline_controller.js:0
 #, python-format
 msgid "Warning"
-msgstr "Alerte"
+msgstr "Avertissement"
 
 #. module: web_timeline
 #. openerp-web
@@ -108,40 +102,5 @@ msgstr "Semaine"
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Year"
-msgstr "Année"
+msgstr ""
 
-#~ msgid "Activity"
-#~ msgstr "Activité"
-
-#~ msgid "Calendar"
-#~ msgstr "Calendrier"
-
-#~ msgid "Diagram"
-#~ msgstr "Diagramme"
-
-#~ msgid "Form"
-#~ msgstr "Formulaire"
-
-#~ msgid "Gantt"
-#~ msgstr "Gantt"
-
-#~ msgid "Graph"
-#~ msgstr "Graphique"
-
-#~ msgid "Kanban"
-#~ msgstr "Kanban"
-
-#~ msgid "Pivot"
-#~ msgstr "Pivot"
-
-#~ msgid "QWeb"
-#~ msgstr "QWeb"
-
-#~ msgid "Search"
-#~ msgstr "Recherche"
-
-#~ msgid "Tree"
-#~ msgstr "Arborescence"
-
-#~ msgid "ir.ui.view"
-#~ msgstr "ir.ui.view"
