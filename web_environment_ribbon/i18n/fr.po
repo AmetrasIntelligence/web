@@ -1,33 +1,30 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * web_environment_ribbon
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
-# Quentin THEURET <odoo@kerpeo.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-26 02:44+0000\n"
-"PO-Revision-Date: 2017-07-26 02:44+0000\n"
-"Last-Translator: Quentin THEURET <odoo@kerpeo.com>, 2017\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_environment_ribbon/i18n/web_environment_ribbon.pot\n"
+"X-Crowdin-File-ID: 6792\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 23:11\n"
 
 #. module: web_environment_ribbon
 #: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__display_name
 msgid "Display Name"
-msgstr "Nom affiché"
+msgstr "Nom d'affichage"
 
 #. module: web_environment_ribbon
 #: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: web_environment_ribbon
 #: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend____last_update
@@ -37,4 +34,5 @@ msgstr "Dernière modification le"
 #. module: web_environment_ribbon
 #: model:ir.model,name:web_environment_ribbon.model_web_environment_ribbon_backend
 msgid "Web Environment Ribbon Backend"
-msgstr "Backend du bandeau de l'environnement Web"
+msgstr "Serveur principal du ruban d'environnement Web"
+
