@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_numeric_step/i18n/web_widget_numeric_step.pot\n"
 "X-Crowdin-File-ID: 6852\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2022-08-12 14:48\n"
 
 #. module: web_widget_numeric_step
 #. openerp-web
@@ -35,5 +35,5 @@ msgstr ""
 #: code:addons/web_widget_numeric_step/static/src/xml/numeric_step.xml:0
 #, python-format
 msgid "Value"
-msgstr ""
+msgstr "Wert"
 
