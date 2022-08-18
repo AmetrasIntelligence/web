@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_timeline/i18n/web_timeline.pot\n"
 "X-Crowdin-File-ID: 6824\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2022-08-18 10:07\n"
 
 #. module: web_timeline
 #. openerp-web
@@ -35,14 +35,14 @@ msgstr ""
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Day"
-msgstr ""
+msgstr "Tag"
 
 #. module: web_timeline
 #. openerp-web
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Month"
-msgstr ""
+msgstr "Monat"
 
 #. module: web_timeline
 #. openerp-web
@@ -102,5 +102,5 @@ msgstr "Woche"
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Year"
-msgstr ""
+msgstr "Jahr"
 
