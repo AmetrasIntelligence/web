@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_pwa_oca/i18n/web_pwa_oca.pot\n"
 "X-Crowdin-File-ID: 6814\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:11\n"
+"PO-Revision-Date: 2022-09-20 14:25\n"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_background_color
@@ -97,7 +97,7 @@ msgstr ""
 #. module: web_pwa_oca
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
-msgid "You can only upload SVG or PNG files"
+msgid "You can only upload SVG or PNG files. Found: %s."
 msgstr ""
 
 #. module: web_pwa_oca
