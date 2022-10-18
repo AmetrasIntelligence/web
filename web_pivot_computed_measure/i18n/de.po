@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_pivot_computed_measure/i18n/web_pivot_computed_measure.pot\n"
 "X-Crowdin-File-ID: 6812\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:11\n"
+"PO-Revision-Date: 2022-10-18 06:54\n"
 
 #. module: web_pivot_computed_measure
 #. openerp-web
@@ -112,7 +112,7 @@ msgstr "Name"
 #: code:addons/web_pivot_computed_measure/static/src/xml/web_pivot_computed_measure.xml:0
 #, python-format
 msgid "Operation"
-msgstr ""
+msgstr "Vorgang"
 
 #. module: web_pivot_computed_measure
 #. openerp-web
