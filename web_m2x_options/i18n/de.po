@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_m2x_options/i18n/web_m2x_options.pot\n"
 "X-Crowdin-File-ID: 6806\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2022-10-26 08:54\n"
 
 #. module: web_m2x_options
 #. openerp-web
@@ -35,7 +35,7 @@ msgstr "Abbrechen"
 #: code:addons/web_m2x_options/static/src/js/form.js:0
 #, python-format
 msgid "Create"
-msgstr ""
+msgstr "Erstellen"
 
 #. module: web_m2x_options
 #. openerp-web
