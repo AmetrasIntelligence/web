@@ -14,14 +14,14 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_boolean_button/i18n/web_boolean_button.pot\n"
 "X-Crowdin-File-ID: 8872\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-25 12:16\n"
+"PO-Revision-Date: 2023-01-05 11:43\n"
 
 #. module: web_boolean_button
 #. openerp-web
 #: code:addons/web_boolean_button/static/src/js/basic_fields.js:0
 #, python-format
 msgid "Activate"
-msgstr ""
+msgstr "Aktiviert"
 
 #. module: web_boolean_button
 #. openerp-web
