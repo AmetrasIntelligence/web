@@ -14,22 +14,22 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_environment_ribbon/i18n/web_environment_ribbon.pot\n"
 "X-Crowdin-File-ID: 6792\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:11\n"
+"PO-Revision-Date: 2023-08-02 09:53\n"
 
 #. module: web_environment_ribbon
 #: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__display_name
 msgid "Display Name"
-msgstr "Anzeigename"
+msgstr ""
 
 #. module: web_environment_ribbon
 #: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: web_environment_ribbon
 #: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend____last_update
 msgid "Last Modified on"
-msgstr "Zuletzt geändert am"
+msgstr ""
 
 #. module: web_environment_ribbon
 #: model:ir.model,name:web_environment_ribbon.model_web_environment_ribbon_backend
