@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_text_markdown/i18n/web_widget_text_markdown.pot\n"
 "X-Crowdin-File-ID: 8866\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 14:26\n"
+"PO-Revision-Date: 2023-08-02 09:53\n"
 
 #. module: web_widget_text_markdown
 #. openerp-web
@@ -35,7 +35,7 @@ msgstr ""
 #: code:addons/web_widget_text_markdown/static/src/js/web_widget_text_markdown.js:0
 #, python-format
 msgid "Translate"
-msgstr "Traduire"
+msgstr ""
 
 #. module: web_widget_text_markdown
 #. openerp-web
