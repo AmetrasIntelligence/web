@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_timeline/i18n/web_timeline.pot\n"
 "X-Crowdin-File-ID: 6824\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-05 13:29\n"
+"PO-Revision-Date: 2023-08-02 09:53\n"
 
 #. module: web_timeline
 #. openerp-web
@@ -35,14 +35,14 @@ msgstr ""
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Day"
-msgstr "Tag"
+msgstr ""
 
 #. module: web_timeline
 #. openerp-web
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Month"
-msgstr "Monat"
+msgstr ""
 
 #. module: web_timeline
 #. openerp-web
@@ -71,12 +71,12 @@ msgstr ""
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Today"
-msgstr "Heute"
+msgstr ""
 
 #. module: web_timeline
 #: model:ir.model,name:web_timeline.model_ir_ui_view
 msgid "View"
-msgstr "Sicht"
+msgstr ""
 
 #. module: web_timeline
 #: model:ir.model.fields,field_description:web_timeline.field_ir_ui_view__type
@@ -88,19 +88,19 @@ msgstr ""
 #: code:addons/web_timeline/static/src/js/timeline_controller.js:0
 #, python-format
 msgid "Warning"
-msgstr "Warnung"
+msgstr ""
 
 #. module: web_timeline
 #. openerp-web
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Week"
-msgstr "Woche"
+msgstr ""
 
 #. module: web_timeline
 #. openerp-web
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Year"
-msgstr "Jahr"
+msgstr ""
 
