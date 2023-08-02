@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_notify/i18n/web_notify.pot\n"
 "X-Crowdin-File-ID: 6810\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 23:11\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: web_notify
 #: code:addons/web_notify/models/res_users.py:0
@@ -26,7 +26,7 @@ msgstr ""
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Default"
-msgstr "Défaut"
+msgstr ""
 
 #. module: web_notify
 #: code:addons/web_notify/models/res_users.py:0
@@ -69,7 +69,7 @@ msgstr ""
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Success"
-msgstr "Succès"
+msgstr ""
 
 #. module: web_notify
 #: model_terms:ir.ui.view,arch_db:web_notify.view_users_form_simple_modif_inherit
@@ -104,11 +104,11 @@ msgstr ""
 #. module: web_notify
 #: model:ir.model,name:web_notify.model_res_users
 msgid "Users"
-msgstr "Utilisateurs"
+msgstr ""
 
 #. module: web_notify
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Warning"
-msgstr "Avertissement"
+msgstr ""
 
