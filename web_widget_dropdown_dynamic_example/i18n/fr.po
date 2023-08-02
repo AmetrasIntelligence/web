@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_dropdown_dynamic_example/i18n/web_widget_dropdown_dynamic_example.pot\n"
 "X-Crowdin-File-ID: 6844\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:08\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__char_field
@@ -30,17 +30,17 @@ msgstr ""
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__id
@@ -66,22 +66,22 @@ msgstr ""
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__name
 msgid "Name"
-msgstr "Nom"
+msgstr ""
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__selection_field
