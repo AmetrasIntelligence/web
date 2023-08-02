@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_time_range_menu_custom/i18n/web_time_range_menu_custom.pot\n"
 "X-Crowdin-File-ID: 8848\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-09-20 14:26\n"
+"PO-Revision-Date: 2023-08-02 09:53\n"
 
 #. module: web_time_range_menu_custom
 #. openerp-web
@@ -29,7 +29,7 @@ msgstr ""
 #: code:addons/web_time_range_menu_custom/static/src/xml/time_range_menu.xml:0
 #, python-format
 msgid "Day"
-msgstr "Tag"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. openerp-web
@@ -44,7 +44,7 @@ msgstr ""
 #: code:addons/web_time_range_menu_custom/static/src/xml/time_range_menu.xml:0
 #, python-format
 msgid "Month"
-msgstr "Monat"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. openerp-web
@@ -59,12 +59,12 @@ msgstr ""
 #: code:addons/web_time_range_menu_custom/static/src/xml/time_range_menu.xml:0
 #, python-format
 msgid "Week"
-msgstr "Woche"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. openerp-web
 #: code:addons/web_time_range_menu_custom/static/src/xml/time_range_menu.xml:0
 #, python-format
 msgid "Year"
-msgstr "Jahr"
+msgstr ""
 
