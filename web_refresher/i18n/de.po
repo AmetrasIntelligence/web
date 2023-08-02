@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_refresher/i18n/web_refresher.pot\n"
 "X-Crowdin-File-ID: 6816\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-09-20 14:25\n"
+"PO-Revision-Date: 2023-08-02 09:53\n"
 
 #. module: web_refresher
 #. openerp-web
 #: code:addons/web_refresher/static/src/xml/refresher.xml:0
 #, python-format
 msgid "Refresh"
-msgstr "Aktualisierung"
+msgstr ""
 
