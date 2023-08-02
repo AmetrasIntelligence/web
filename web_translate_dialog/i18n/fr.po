@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_translate_dialog/i18n/web_translate_dialog.pot\n"
 "X-Crowdin-File-ID: 6826\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 22:09\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: web_translate_dialog
 #: model:ir.model,name:web_translate_dialog.model_base
@@ -26,7 +26,7 @@ msgstr ""
 #: code:addons/web_translate_dialog/static/src/xml/base.xml:0
 #, python-format
 msgid "Cancel"
-msgstr "Annuler"
+msgstr ""
 
 #. module: web_translate_dialog
 #: model:ir.model.fields,help:web_translate_dialog.field_res_lang__tr_sequence
@@ -38,19 +38,19 @@ msgstr "Définit l'ordre de la langue à apparaître dans la boîte de dialogue 
 #: code:addons/web_translate_dialog/static/src/xml/base.xml:0
 #, python-format
 msgid "Field"
-msgstr "Champ"
+msgstr ""
 
 #. module: web_translate_dialog
 #: model:ir.model,name:web_translate_dialog.model_res_lang
 msgid "Languages"
-msgstr "Langues"
+msgstr ""
 
 #. module: web_translate_dialog
 #. openerp-web
 #: code:addons/web_translate_dialog/static/src/xml/base.xml:0
 #, python-format
 msgid "Save"
-msgstr "sauvegarde"
+msgstr ""
 
 #. module: web_translate_dialog
 #. openerp-web
