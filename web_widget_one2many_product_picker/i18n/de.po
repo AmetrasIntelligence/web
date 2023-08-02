@@ -14,28 +14,28 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_one2many_product_picker/i18n/web_widget_one2many_product_picker.pot\n"
 "X-Crowdin-File-ID: 8830\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-26 08:54\n"
+"PO-Revision-Date: 2023-08-02 09:52\n"
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
 #: code:addons/web_widget_one2many_product_picker/static/src/xml/one2many_product_picker_quick_create.xml:0
 #, python-format
 msgid "Accept"
-msgstr "Annehmen"
+msgstr ""
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
 #: code:addons/web_widget_one2many_product_picker/static/src/xml/one2many_product_picker_quick_create.xml:0
 #, python-format
 msgid "Add"
-msgstr "hinzufügen"
+msgstr ""
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
 #: code:addons/web_widget_one2many_product_picker/static/src/js/widgets/field_one2many_product_picker.js:0
 #, python-format
 msgid "All"
-msgstr "Alles"
+msgstr ""
 
 #. module: web_widget_one2many_product_picker
 #: model:ir.model,name:web_widget_one2many_product_picker.model_base
@@ -67,7 +67,7 @@ msgstr ""
 #: code:addons/web_widget_one2many_product_picker/static/src/xml/one2many_product_picker_quick_create.xml:0
 #, python-format
 msgid "Discard"
-msgstr "Verwerfen"
+msgstr ""
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
@@ -88,7 +88,7 @@ msgstr ""
 #: code:addons/web_widget_one2many_product_picker/static/src/xml/one2many_product_picker.xml:0
 #, python-format
 msgid "Lines"
-msgstr "Zeilen"
+msgstr ""
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
@@ -102,14 +102,14 @@ msgstr ""
 #: code:addons/web_widget_one2many_product_picker/static/src/xml/one2many_product_picker_quick_modif_price.xml:0
 #, python-format
 msgid "Price"
-msgstr "Preis"
+msgstr ""
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
 #: code:addons/web_widget_one2many_product_picker/static/src/xml/one2many_product_picker_quick_create.xml:0
 #, python-format
 msgid "Remove"
-msgstr "entfernen"
+msgstr ""
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
