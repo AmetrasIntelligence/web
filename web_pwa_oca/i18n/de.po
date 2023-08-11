@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_pwa_oca/i18n/web_pwa_oca.pot\n"
 "X-Crowdin-File-ID: 6814\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-11 16:12\n"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_background_color
@@ -34,7 +34,7 @@ msgstr ""
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
