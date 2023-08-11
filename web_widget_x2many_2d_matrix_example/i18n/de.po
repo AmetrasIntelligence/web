@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_x2many_2d_matrix_example/i18n/web_widget_x2many_2d_matrix_example.pot\n"
 "X-Crowdin-File-ID: 6858\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-11 09:01\n"
 
 #. module: web_widget_x2many_2d_matrix_example
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo__create_uid
@@ -60,21 +60,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo_line____last_update
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_matrix_demo_wiz____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Zuletzt geändert am"
 
 #. module: web_widget_x2many_2d_matrix_example
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo__write_uid
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo_line__write_uid
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_matrix_demo_wiz__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Zuletzt aktualisiert von"
 
 #. module: web_widget_x2many_2d_matrix_example
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo__write_date
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo_line__write_date
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_matrix_demo_wiz__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Zuletzt aktualisiert am"
 
 #. module: web_widget_x2many_2d_matrix_example
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo__line_ids
