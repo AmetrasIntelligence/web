@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_dropdown_dynamic_example/i18n/web_widget_dropdown_dynamic_example.pot\n"
 "X-Crowdin-File-ID: 6844\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:52\n"
+"PO-Revision-Date: 2023-08-11 09:01\n"
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__char_field
@@ -71,12 +71,12 @@ msgstr ""
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Zuletzt aktualisiert von"
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Zuletzt aktualisiert am"
 
 #. module: web_widget_dropdown_dynamic_example
 #: model:ir.model.fields,field_description:web_widget_dropdown_dynamic_example.field_web_widget_dropdown_dynamic_example__name
