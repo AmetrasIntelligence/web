@@ -14,10 +14,10 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_dialog_size/i18n/web_dialog_size.pot\n"
 "X-Crowdin-File-ID: 6782\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:11\n"
+"PO-Revision-Date: 2023-08-14 13:51\n"
 
 #. module: web_dialog_size
 #: model:ir.model,name:web_dialog_size.model_ir_config_parameter
 msgid "System Parameter"
-msgstr ""
+msgstr "Systemparameter"
 
