@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_notify/i18n/web_notify.pot\n"
 "X-Crowdin-File-ID: 6810\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:18\n"
+"PO-Revision-Date: 2023-08-16 12:14\n"
 
 #. module: web_notify
 #: code:addons/web_notify/models/res_users.py:0
@@ -110,5 +110,5 @@ msgstr "Benutzer"
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Warning"
-msgstr ""
+msgstr "Warnung"
 
