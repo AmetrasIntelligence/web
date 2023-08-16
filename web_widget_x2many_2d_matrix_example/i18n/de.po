@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_x2many_2d_matrix_example/i18n/web_widget_x2many_2d_matrix_example.pot\n"
 "X-Crowdin-File-ID: 6858\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:18\n"
+"PO-Revision-Date: 2023-08-16 14:21\n"
 
 #. module: web_widget_x2many_2d_matrix_example
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo__create_uid
@@ -80,7 +80,7 @@ msgstr "Zuletzt aktualisiert am"
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo__line_ids
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_matrix_demo_wiz__line_ids
 msgid "Line"
-msgstr ""
+msgstr "Position"
 
 #. module: web_widget_x2many_2d_matrix_example
 #: model:ir.model.fields,field_description:web_widget_x2many_2d_matrix_example.field_x2m_demo__name
