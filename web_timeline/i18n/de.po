@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_timeline/i18n/web_timeline.pot\n"
 "X-Crowdin-File-ID: 6824\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-15 13:49\n"
+"PO-Revision-Date: 2023-08-16 10:18\n"
 
 #. module: web_timeline
 #. openerp-web
@@ -76,7 +76,7 @@ msgstr "Heute"
 #. module: web_timeline
 #: model:ir.model,name:web_timeline.model_ir_ui_view
 msgid "View"
-msgstr ""
+msgstr "Ansicht"
 
 #. module: web_timeline
 #: model:ir.model.fields,field_description:web_timeline.field_ir_ui_view__type
