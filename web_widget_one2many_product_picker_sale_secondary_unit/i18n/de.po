@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_one2many_product_picker_sale_secondary_unit/i18n/web_widget_one2many_product_picker_sale_secondary_unit.pot\n"
 "X-Crowdin-File-ID: 8842\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-02 09:53\n"
+"PO-Revision-Date: 2023-08-18 09:22\n"
 
 #. module: web_widget_one2many_product_picker_sale_secondary_unit
 #: model:ir.model.fields,field_description:web_widget_one2many_product_picker_sale_secondary_unit.field_sale_order_line__has_secondary_uom
@@ -24,7 +24,7 @@ msgstr ""
 #. module: web_widget_one2many_product_picker_sale_secondary_unit
 #: model:ir.model,name:web_widget_one2many_product_picker_sale_secondary_unit.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "Auftragsposition"
 
 #. module: web_widget_one2many_product_picker_sale_secondary_unit
 #. openerp-web
