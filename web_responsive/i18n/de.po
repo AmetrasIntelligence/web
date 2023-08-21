@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_responsive/i18n/web_responsive.pot\n"
 "X-Crowdin-File-ID: 6818\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:18\n"
+"PO-Revision-Date: 2023-08-21 08:31\n"
 
 #. module: web_responsive
 #. openerp-web
@@ -33,7 +33,7 @@ msgstr "Chatter-Position"
 #: code:addons/web_responsive/static/src/xml/document_viewer.xml:0
 #, python-format
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 #. module: web_responsive
 #. openerp-web
@@ -90,7 +90,7 @@ msgstr "Schnell-Aktion"
 #: code:addons/web_responsive/static/src/xml/form_view.xml:0
 #, python-format
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 #. module: web_responsive
 #. openerp-web
