@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_widget_one2many_product_picker/i18n/web_widget_one2many_product_picker.pot\n"
 "X-Crowdin-File-ID: 8830\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 10:18\n"
+"PO-Revision-Date: 2023-08-21 07:13\n"
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
@@ -28,7 +28,7 @@ msgstr ""
 #: code:addons/web_widget_one2many_product_picker/static/src/xml/one2many_product_picker_quick_create.xml:0
 #, python-format
 msgid "Add"
-msgstr ""
+msgstr "Hinzufügen"
 
 #. module: web_widget_one2many_product_picker
 #. openerp-web
