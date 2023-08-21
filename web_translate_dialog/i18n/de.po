@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.web] 13.0/web_translate_dialog/i18n/web_translate_dialog.pot\n"
 "X-Crowdin-File-ID: 6826\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-08-16 08:52\n"
+"PO-Revision-Date: 2023-08-21 08:31\n"
 
 #. module: web_translate_dialog
 #: model:ir.model,name:web_translate_dialog.model_base
@@ -38,7 +38,7 @@ msgstr ""
 #: code:addons/web_translate_dialog/static/src/xml/base.xml:0
 #, python-format
 msgid "Field"
-msgstr ""
+msgstr "Feld"
 
 #. module: web_translate_dialog
 #: model:ir.model,name:web_translate_dialog.model_res_lang
@@ -50,7 +50,7 @@ msgstr ""
 #: code:addons/web_translate_dialog/static/src/xml/base.xml:0
 #, python-format
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 #. module: web_translate_dialog
 #. openerp-web
