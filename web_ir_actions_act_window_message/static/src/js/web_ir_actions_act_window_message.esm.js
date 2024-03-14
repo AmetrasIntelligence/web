@@ -3,7 +3,7 @@
 import Dialog from "web.Dialog";
 import {registry} from "@web/core/registry";
 
-function _refreshWidget(env) {
+function _refreshWidget(env, action) {
     const controller = env.services.action.currentController;
     const props = controller.props;
     const view = controller.view;
@@ -12,13 +12,20 @@ function _refreshWidget(env) {
         // Case where a legacy view is reloaded via the view switcher
         const {__legacy_widget__} = controller.getLocalState();
         const params = {};
-        if ("resId" in props) {
-            params.currentId = props.resId;
+        var currentId = props.resId;
+        if (!currentId || action.context.active_id !== props.resId) {
+            currentId = action.context.active_id;
         }
+        params.currentId = currentId;
         return __legacy_widget__.reload(params);
     }
+
+    var currentId = props.resId;
+    if (!currentId || action.context.active_id !== props.resId) {
+        currentId = action.context.active_id;
+    }
     // END LEGACY CODE COMPATIBILITY
-    env.services.action.switchView(props.type, {resId: props.resId});
+    env.services.action.switchView(props.type, {resId: currentId});
 }
 
 function ir_actions_act_window_message_get_buttons(env, action, close_func) {
@@ -40,7 +47,7 @@ function ir_actions_act_window_message_get_buttons(env, action, close_func) {
                             if (_.isObject(result)) {
                                 return env.services.action.doAction(result);
                             }
-                            _refreshWidget(env);
+                            _refreshWidget(env, action);
                         });
                 } else {
                     return env.services.action.doAction(button_definition);
@@ -58,7 +65,7 @@ async function _executeWindowMessageAction({env, action}) {
             text: action.close_button_title || env._t("Close"),
             click: function () {
                 // Refresh the view before closing the dialog
-                _refreshWidget(env);
+                _refreshWidget(env, action);
                 this.close();
             },
             classes: "btn-default",
